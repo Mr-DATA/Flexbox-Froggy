@@ -1,0 +1,149 @@
+/* Exercice 01 */
+#pond {
+    display: flex;
+    justify-content: flex-end;
+}
+/* Exercice 02 */
+#pond {
+    display: flex;
+    justify-content: center;
+}
+/* Exercice 03 */
+#pond {
+    display: flex;
+    justify-content: space-around;
+}
+/* Exercice 04 */
+#pond {
+    display: flex;
+    justify-content: space-between;
+}
+/* Exercice 05 */
+#pond {
+    display: flex;
+    align-items: flex-end;
+}
+/* Exercice 06 */
+#pond {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* Exercice 07 */
+#pond {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+/* Exercice 08 */
+#pond {
+    display: flex;
+    flex-direction: row-reverse;
+}
+/* Exercice 09 */
+#pond {
+    display: flex;
+    flex-direction: column;
+}
+/* Exercice 10 */
+#pond {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+/* Exercice 11 */
+#pond {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+/* Exercice 12 */
+#pond {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between
+}
+/* Exercice 13 */
+#pond {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: flex-end;
+}
+/* Exercice 14 */
+#pond {
+    display: flex;
+}
+
+.yellow {
+    order: 1;
+}
+/* Exercice 15 */
+#pond {
+    display: flex;
+}
+
+.red {
+    order: -2;
+}
+/* Exercice 16 */
+#pond {
+    display: flex;
+    align-items: flex-start;
+}
+
+.yellow {
+    align-self: flex-end;
+}
+/* Exercice 17 */
+#pond {
+    display: flex;
+    align-items: flex-start;
+}
+
+.yellow {
+    order: 2;
+    align-self: flex-end;
+}
+/* Exercice 18 */
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+}
+/* Exercice 19 */
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+/* Exercice 20 */
+#pond {
+    display: flex;
+    flex-flow: column wrap;
+}
+/* Exercice 21 */
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+/* Exercice 22 */
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-end;
+}
+/* Exercice 23 */
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    align-content: center;
+}
+/* Exercice 24 */
+#pond {
+    display: flex;
+    flex-flow: column-reverse wrap-reverse;
+    justify-content: center;
+    align-content: space-between;
+}
